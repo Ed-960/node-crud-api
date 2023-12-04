@@ -3,7 +3,7 @@
 
 ### Assignment Overview
 
-Your task is to implement a simple CRUD API using an in-memory database. The API will support operations such as creating, reading, updating, and deleting user records. Below are the technical requirements and implementation details for the assignment.
+This is a simple CRUD API using an in-memory database. The API will support operations such as creating, reading, updating, and deleting user records. Below are the technical requirements and implementation details for the assignment.
 
 ### Technical Requirements
 
